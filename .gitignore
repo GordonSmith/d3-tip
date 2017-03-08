@@ -3,5 +3,3 @@ bower_components
 node_modules
 d3-tip.min.*
 /.project
-lib
-lib-browser
